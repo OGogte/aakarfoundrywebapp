@@ -1,0 +1,810 @@
+.flags {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.flags.SE {
+  width: 21px;
+}
+
+.flags.VE {
+  width: 21px;
+}
+
+.flags.MR {
+  width: 21px;
+}
+
+.flags.PG {
+  width: 21px;
+}
+
+.flags.IR {
+  width: 21px;
+}
+
+.flags.SS {
+  width: 21px;
+}
+
+.flags.CI {
+  width: 21px;
+}
+
+.flags.SO {
+  width: 21px;
+}
+
+.flags.SZ {
+  width: 21px;
+}
+
+.flags.AU {
+  width: 21px;
+}
+
+.flags.GM {
+  width: 21px;
+}
+
+.flags.PY {
+  width: 21px;
+}
+
+.flags.HT {
+  width: 21px;
+}
+
+.flags.KZ {
+  width: 21px;
+}
+
+.flags.VI {
+  width: 21px;
+}
+
+.flags.PK {
+  width: 21px;
+}
+
+.flags.IE {
+  width: 21px;
+}
+
+.flags.GW {
+  width: 21px;
+}
+
+.flags.PA {
+  width: 21px;
+}
+
+.flags.UY {
+  width: 21px;
+}
+
+.flags.LU {
+  width: 21px;
+}
+
+.flags.TJ {
+  width: 21px;
+}
+
+.flags.SD {
+  width: 21px;
+}
+
+.flags.EG {
+  width: 21px;
+}
+
+.flags.ZW {
+  width: 21px;
+}
+
+.flags.SV {
+  width: 21px;
+}
+
+.flags.GH {
+  width: 21px;
+}
+
+.flags.NO {
+  width: 21px;
+}
+
+.flags.CR {
+  width: 21px;
+}
+
+.flags.LT {
+  width: 21px;
+}
+
+.flags.TV {
+  width: 21px;
+}
+
+.flags.BF {
+  width: 21px;
+}
+
+.flags.MH {
+  width: 21px;
+}
+
+.flags.BO {
+  width: 21px;
+}
+
+.flags.IS {
+  width: 21px;
+}
+
+.flags.DE {
+  width: 21px;
+}
+
+.flags.TT {
+  width: 21px;
+}
+
+.flags.PE {
+  width: 21px;
+}
+
+.flags.TH {
+  width: 21px;
+}
+
+.flags.MN {
+  width: 21px;
+}
+
+.flags.EC {
+  width: 21px;
+}
+
+.flags.OM {
+  width: 21px;
+}
+
+.flags.SR {
+  width: 21px;
+}
+
+.flags.LR {
+  width: 21px;
+}
+
+.flags.MC {
+  width: 21px;
+}
+
+.flags.TL {
+  width: 21px;
+}
+
+.flags.DZ {
+  width: 21px;
+}
+
+.flags.DM {
+  width: 21px;
+}
+
+.flags.NL {
+  width: 21px;
+}
+
+.flags.HK {
+  width: 21px;
+}
+
+.flags.FM {
+  width: 21px;
+}
+
+.flags.GY {
+  width: 21px;
+}
+
+.flags.CD {
+  width: 21px;
+}
+
+.flags.BV {
+  width: 21px;
+}
+
+.flags.MY {
+  width: 21px;
+}
+
+.flags.BT {
+  width: 21px;
+}
+
+.flags.SK {
+  width: 21px;
+}
+
+.flags.SN {
+  width: 21px;
+}
+
+.flags.MG {
+  width: 21px;
+}
+
+.flags.HR {
+  width: 21px;
+}
+
+.flags.IN {
+  width: 21px;
+}
+
+.flags.RU {
+  width: 21px;
+}
+
+.flags.CH {
+  width: 21px;
+}
+
+.flags.TD {
+  width: 21px;
+}
+
+.flags.BJ {
+  width: 21px;
+}
+
+.flags.FJ {
+  width: 21px;
+}
+
+.flags.TO {
+  width: 21px;
+}
+
+.flags.NI {
+  width: 21px;
+}
+
+.flags.TM {
+  width: 21px;
+}
+
+.flags.MA {
+  width: 21px;
+}
+
+.flags.AL {
+  width: 21px;
+}
+
+.flags.MV {
+  width: 21px;
+}
+
+.flags.CG {
+  width: 21px;
+}
+
+.flags.QA {
+  width: 21px;
+}
+
+.flags.AD {
+  width: 21px;
+}
+
+.flags.MU {
+  width: 21px;
+}
+
+.flags.BE {
+  width: 21px;
+}
+
+.flags.NE {
+  width: 21px;
+}
+
+.flags.JP {
+  width: 21px;
+}
+
+.flags.AG {
+  width: 21px;
+}
+
+.flags.JM {
+  width: 21px;
+}
+
+.flags.SA {
+  width: 21px;
+}
+
+.flags.KM {
+  width: 21px;
+}
+
+.flags.GB {
+  width: 21px;
+}
+
+.flags.BA {
+  width: 21px;
+}
+
+.flags.CN {
+  width: 21px;
+}
+
+.flags.YE {
+  width: 21px;
+}
+
+.flags.LB {
+  width: 21px;
+}
+
+.flags.CO {
+  width: 21px;
+}
+
+.flags.JO {
+  width: 21px;
+}
+
+.flags.CU {
+  width: 21px;
+}
+
+.flags.SX {
+  width: 21px;
+}
+
+.flags.VN {
+  width: 21px;
+}
+
+.flags.FR {
+  width: 21px;
+}
+
+.flags.BY {
+  width: 21px;
+}
+
+.flags.HN {
+  width: 21px;
+}
+
+.flags.LC {
+  width: 21px;
+}
+
+.flags.GA {
+  width: 21px;
+}
+
+.flags.LA {
+  width: 21px;
+}
+
+.flags.BN {
+  width: 21px;
+}
+
+.flags.KE {
+  width: 21px;
+}
+
+.flags.KI {
+  width: 21px;
+}
+
+.flags.VC {
+  width: 21px;
+}
+
+.flags.UG {
+  width: 21px;
+}
+
+.flags.IT {
+  width: 21px;
+}
+
+.flags.MX {
+  width: 21px;
+}
+
+.flags.CA {
+  width: 21px;
+}
+
+.flags.BR {
+  width: 21px;
+}
+
+.flags.UZ {
+  width: 21px;
+}
+
+.flags.UA {
+  width: 21px;
+}
+
+.flags.MK {
+  width: 21px;
+}
+
+.flags.NA {
+  width: 21px;
+}
+
+.flags.PT {
+  width: 21px;
+}
+
+.flags.AM {
+  width: 21px;
+}
+
+.flags.SC {
+  width: 21px;
+}
+
+.flags.MM {
+  width: 21px;
+}
+
+.flags.NG {
+  width: 21px;
+}
+
+.flags.RO {
+  width: 21px;
+}
+
+.flags.ZA {
+  width: 21px;
+}
+
+.flags.TG {
+  width: 21px;
+}
+
+.flags.NZ {
+  width: 21px;
+}
+
+.flags.CL {
+  width: 21px;
+}
+
+.flags.LI {
+  width: 21px;
+}
+
+.flags.BB {
+  width: 21px;
+}
+
+.flags.AN {
+  width: 21px;
+}
+
+.flags.LS {
+  width: 21px;
+}
+
+.flags.CM {
+  width: 21px;
+}
+
+.flags.BI {
+  width: 21px;
+}
+
+.flags.CV {
+  width: 21px;
+}
+
+.flags.MT {
+  width: 21px;
+}
+
+.flags.ME {
+  width: 21px;
+}
+
+.flags.BH {
+  width: 21px;
+}
+
+.flags.AE {
+  width: 21px;
+}
+
+.flags.AR {
+  width: 21px;
+}
+
+.flags.TR {
+  width: 21px;
+}
+
+.flags.SG {
+  width: 21px;
+}
+
+.flags.TZ {
+  width: 21px;
+}
+
+.flags.PH {
+  width: 21px;
+}
+
+.flags.KP {
+  width: 21px;
+}
+
+.flags.GQ {
+  width: 21px;
+}
+
+.flags.AZ {
+  width: 21px;
+}
+
+.flags.IL {
+  width: 21px;
+}
+
+.flags.GT {
+  width: 21px;
+}
+
+.flags.WS {
+  width: 21px;
+}
+
+.flags.PL {
+  width: 21px;
+}
+
+.flags.TN {
+  width: 21px;
+}
+
+.flags.FI {
+  width: 21px;
+}
+
+.flags.ML {
+  width: 21px;
+}
+
+.flags.KG {
+  width: 21px;
+}
+
+.flags.GE {
+  width: 21px;
+}
+
+.flags.AW {
+  width: 21px;
+}
+
+.flags.NP {
+  width: 13px;
+}
+
+.flags.BD {
+  width: 21px;
+}
+
+.flags.LV {
+  width: 21px;
+}
+
+.flags.SL {
+  width: 21px;
+}
+
+.flags.CY {
+  width: 21px;
+}
+
+.flags.BS {
+  width: 21px;
+}
+
+.flags.SY {
+  width: 21px;
+}
+
+.flags.NR {
+  width: 21px;
+}
+
+.flags.ID {
+  width: 21px;
+}
+
+.flags.CF {
+  width: 21px;
+}
+
+.flags.ST {
+  width: 21px;
+}
+
+.flags.SB {
+  width: 21px;
+}
+
+.flags.VA {
+  width: 16px;
+}
+
+.flags.GN {
+  width: 21px;
+}
+
+.flags.MW {
+  width: 21px;
+}
+
+.flags.ZM {
+  width: 21px;
+}
+
+.flags.GR {
+  width: 21px;
+}
+
+.flags.RS {
+  width: 21px;
+}
+
+.flags.CZ {
+  width: 21px;
+}
+
+.flags.MD {
+  width: 21px;
+}
+
+.flags.KR {
+  width: 21px;
+}
+
+.flags.LY {
+  width: 21px;
+}
+
+.flags.VU {
+  width: 21px;
+}
+
+.flags.GD {
+  width: 21px;
+}
+
+.flags.BG {
+  width: 21px;
+}
+
+.flags.DO {
+  width: 21px;
+}
+
+.flags.EE {
+  width: 21px;
+}
+
+.flags.BZ {
+  width: 21px;
+}
+
+.flags.MZ {
+  width: 21px;
+}
+
+.flags.DK {
+  width: 21px;
+}
+
+.flags.US {
+  width: 21px;
+}
+
+.flags.AT {
+  width: 21px;
+}
+
+.flags.KW {
+  width: 21px;
+}
+
+.flags.SM {
+  width: 21px;
+}
+
+.flags.AO {
+  width: 21px;
+}
+
+.flags.BW {
+  width: 21px;
+}
+
+.flags.DJ {
+  width: 21px;
+}
+
+.flags.KH {
+  width: 21px;
+}
+
+.flags.HU {
+  width: 21px;
+}
+
+.flags.SI {
+  width: 21px;
+}
+
+.flags.IQ {
+  width: 21px;
+}
+
+.flags.LK {
+  width: 21px;
+}
+
+.flags.PS {
+  width: 21px;
+}
+
+.flags.ER {
+  width: 21px;
+}
+
+.flags.PW {
+  width: 21px;
+}
+
+.flags.ES {
+  width: 21px;
+}
+
+.flags.CW {
+  width: 21px;
+}
+
+.flags.RW {
+  width: 21px;
+}
+
+.flags.AF {
+  width: 21px;
+}
+
+.flags.ET {
+  width: 21px;
+}

@@ -1,0 +1,1411 @@
+.element {
+  background-color: #ffffff;
+  height: 964px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.element .overlap {
+  height: 1346px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 1443px;
+}
+
+.element .text-wrapper {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 125px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 992px;
+  white-space: nowrap;
+  width: 347px;
+}
+
+.element .frame {
+  height: 1346px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1443px;
+}
+
+.element .overlap-group {
+  background-color: #054470;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 102px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1443px;
+}
+
+.element .component-5-group-45 {
+  background-image: url(https://c.animaapp.com/jNH9vFsJ/img/user-fill-1.svg) !important;
+  left: 1290px !important;
+  position: absolute !important;
+  top: 34px !important;
+}
+
+.element .exit {
+  background-image: url(https://c.animaapp.com/jNH9vFsJ/img/exit-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  left: 1366px;
+  position: absolute;
+  top: 34px;
+  width: 32px;
+}
+
+.element .image {
+  height: 71px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 124px;
+}
+
+.element .group {
+  height: 24px;
+  left: 124px;
+  position: absolute;
+  top: 176px;
+  width: 1195px;
+}
+
+.element .div {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 0;
+  padding: 0px 4.6px 0.28px 0px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.element .span-muisteplabel {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-bottom: -0.28px;
+  padding: 0px 8px 0px 0px;
+  position: relative;
+}
+
+.element .SVG {
+  align-self: stretch;
+  background-image: url(https://c.animaapp.com/jNH9vFsJ/img/vector-6.svg);
+  background-size: 100% 100%;
+  position: relative;
+  width: 24px;
+}
+
+.element .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+}
+
+.element .div-wrapper {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 45px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 157px;
+}
+
+.element .div-2 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 109px;
+}
+
+.element .SVG-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 202px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.element .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 8px;
+}
+
+.element .div-3 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 242px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 156px;
+}
+
+.element .span-muisteplabel-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 398px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.element .div-4 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 438px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 157px;
+}
+
+.element .span-muisteplabel-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 595px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.element .div-5 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 635px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 156px;
+}
+
+.element .span-muisteplabel-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 791px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.element .SVG-2 {
+  align-self: stretch;
+  background-image: url(https://c.animaapp.com/jNH9vFsJ/img/vector-2.svg);
+  background-size: 100% 100%;
+  position: relative;
+  width: 24px;
+}
+
+.element .div-6 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  left: 831px;
+  position: absolute;
+  top: 12px;
+  width: 135px;
+}
+
+.element .span-muisteplabel-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 966px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.element .div-7 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  left: 1020px;
+  position: absolute;
+  top: 12px;
+  width: 135px;
+}
+
+.element .span-muisteplabel-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 1155px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.element .machine-type-CNC-VMC {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.element .span {
+  color: #054470;
+}
+
+.element .text-wrapper-4 {
+  color: #ff0000;
+}
+
+.element .machining-fixture {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 388px;
+  white-space: nowrap;
+}
+
+.element .leak-testing-fixture {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 503px;
+  white-space: nowrap;
+}
+
+.element .plastic-protection {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 618px;
+  white-space: nowrap;
+}
+
+.element .machining-cost-rs-pc {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 766px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.element .inspection-gauges {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 766px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 388px;
+  white-space: nowrap;
+}
+
+.element .washing-fixture-cost {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 766px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 503px;
+  white-space: nowrap;
+}
+
+.element .packaging-cost {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 766px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 618px;
+  white-space: nowrap;
+}
+
+.element .overlap-2 {
+  border-radius: 4px;
+  height: 51px;
+  left: 124px;
+  position: absolute;
+  top: 308px;
+  width: 539px;
+}
+
+.element .text-wrapper-5 {
+  color: #00000061;
+  font-family: "Exo", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 22px;
+  left: 31px;
+  letter-spacing: 0.13px;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 337px;
+}
+
+.element .fieldset-styles {
+  border: 1px solid;
+  border-color: #00000042;
+  border-radius: 4px;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 539px;
+}
+
+.element .overlap-3 {
+  border-radius: 4px;
+  height: 51px;
+  left: 124px;
+  position: absolute;
+  top: 423px;
+  width: 539px;
+}
+
+.element .overlap-group-2 {
+  border-radius: 4px;
+  height: 51px;
+  left: 124px;
+  position: absolute;
+  top: 538px;
+  width: 539px;
+}
+
+.element .overlap-4 {
+  border-radius: 4px;
+  height: 51px;
+  left: 124px;
+  position: absolute;
+  top: 653px;
+  width: 539px;
+}
+
+.element .overlap-5 {
+  border-radius: 4px;
+  height: 51px;
+  left: 766px;
+  position: absolute;
+  top: 308px;
+  width: 539px;
+}
+
+.element .overlap-6 {
+  border-radius: 4px;
+  height: 51px;
+  left: 766px;
+  position: absolute;
+  top: 423px;
+  width: 539px;
+}
+
+.element .overlap-7 {
+  border-radius: 4px;
+  height: 51px;
+  left: 766px;
+  position: absolute;
+  top: 538px;
+  width: 539px;
+}
+
+.element .overlap-8 {
+  border-radius: 4px;
+  height: 51px;
+  left: 766px;
+  position: absolute;
+  top: 653px;
+  width: 539px;
+}
+
+.element .overlap-9 {
+  background-color: #054470;
+  border: 1px solid;
+  border-color: #0000004c;
+  border-radius: 5px;
+  height: 54px;
+  left: 769px;
+  position: absolute;
+  top: 811px;
+  width: 185px;
+}
+
+.element .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 500;
+  height: 20px;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.element .overlap-10 {
+  background-color: #054470;
+  border: 1px solid;
+  border-color: #0000004c;
+  border-radius: 5px;
+  height: 54px;
+  left: 483px;
+  position: absolute;
+  top: 811px;
+  width: 185px;
+}
+
+.element .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 500;
+  height: 20px;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.element .overlap-11 {
+  height: 79px;
+  left: -1453px;
+  position: absolute;
+  top: 550px;
+  width: 1137px;
+}
+
+.element .overlap-12 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1137px;
+}
+
+.element .text-wrapper-8 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  width: 347px;
+}
+
+.element .text-wrapper-9 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.element .text-wrapper-10 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.element .shape {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: 277px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.element .shape-2 {
+  background-color: #00000038;
+  border-radius: 10px;
+  height: 25px;
+  left: 587px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.element .shape-3 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: 277px;
+  position: absolute;
+  top: 54px;
+  width: 860px;
+}
+
+.element .shape-4 {
+  background-color: #0000003d;
+  border-radius: 10px;
+  height: 25px;
+  left: 887px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.element .overlap-13 {
+  height: 352px;
+  left: -1420px;
+  position: absolute;
+  top: 170px;
+  width: 1224px;
+}
+
+.element .upload {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.24) 0%);
+  border-radius: 276px;
+  height: 18px;
+  left: 249px;
+  overflow: hidden;
+  position: absolute;
+  top: 228px;
+  transform: rotate(0.49deg);
+  width: 40px;
+}
+
+.element .rectangle {
+  background: linear-gradient(180deg, rgba(245, 245, 245, 0) 0%, rgba(255, 0, 214.2, 0) 100%);
+  height: 331px;
+  left: -307px;
+  position: relative;
+  top: -106px;
+  transform: rotate(-0.49deg);
+  width: 1224px;
+}
+
+.element .rectangle-wrapper {
+  border-radius: 276px;
+  height: 18px;
+  left: 379px;
+  overflow: hidden;
+  position: absolute;
+  top: 228px;
+  transform: rotate(0.49deg);
+  width: 40px;
+}
+
+.element .rectangle-2 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.25) 0%);
+  border-radius: 20px;
+  height: 18px;
+}
+
+.element .upload-2 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%);
+  border-radius: 276px;
+  height: 18px;
+  left: 249px;
+  position: absolute;
+  top: 268px;
+  transform: rotate(0.49deg);
+  width: 40px;
+}
+
+.element .upload-3 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.26) 0%);
+  border-radius: 276px;
+  height: 18px;
+  left: 379px;
+  position: absolute;
+  top: 268px;
+  transform: rotate(0.49deg);
+  width: 40px;
+}
+
+.element .rectangle-3 {
+  background: linear-gradient(180deg, rgba(245, 245, 245, 0) 0%, rgba(255, 0, 214.2, 0) 100%);
+  height: 331px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1224px;
+}
+
+.element .shape-5 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: 244px;
+  position: absolute;
+  top: 327px;
+  width: 250px;
+}
+
+.element .shape-6 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: 554px;
+  position: absolute;
+  top: 327px;
+  width: 250px;
+}
+
+.element .shape-7 {
+  background-color: #0000002e;
+  border-radius: 10px;
+  height: 25px;
+  left: 854px;
+  position: absolute;
+  top: 327px;
+  width: 250px;
+}
+
+.element .shape-8 {
+  background-color: #0000003d;
+  border-radius: 10px;
+  height: 25px;
+  left: 244px;
+  position: absolute;
+  top: 121px;
+  width: 250px;
+}
+
+.element .shape-9 {
+  background-color: #00000042;
+  border-radius: 10px;
+  height: 25px;
+  left: 854px;
+  position: absolute;
+  top: 121px;
+  width: 250px;
+}
+
+.element .shape-10 {
+  background-color: #00000038;
+  border-radius: 10px;
+  height: 25px;
+  left: 554px;
+  position: absolute;
+  top: 121px;
+  width: 250px;
+}
+
+.element .upload-4 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.22) 0%);
+  border-radius: 276px;
+  height: 18px;
+  left: 529px;
+  position: absolute;
+  top: 268px;
+  transform: rotate(0.49deg);
+  width: 40px;
+}
+
+.element .overlap-14 {
+  height: 81px;
+  left: -1453px;
+  position: absolute;
+  top: 759px;
+  width: 1137px;
+}
+
+.element .text-wrapper-11 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  width: 347px;
+}
+
+.element .shape-11 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: 277px;
+  position: absolute;
+  top: 0;
+  width: 860px;
+}
+
+.element .shape-12 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: 277px;
+  position: absolute;
+  top: 49px;
+  width: 860px;
+}
+
+.element .text-wrapper-12 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 396px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+}
+
+.element .overlap-15 {
+  height: 56px;
+  left: -1453px;
+  position: absolute;
+  top: 894px;
+  width: 1137px;
+}
+
+.element .text-wrapper-13 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 347px;
+}
+
+.element .text-wrapper-14 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.element .text-wrapper-15 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 470px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.element .shape-13 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: 277px;
+  position: absolute;
+  top: 17px;
+  width: 860px;
+}
+
+.element .overlap-16 {
+  height: 77px;
+  left: -1453px;
+  position: absolute;
+  top: 963px;
+  width: 1137px;
+}
+
+.element .text-wrapper-16 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 347px;
+}
+
+.element .text-wrapper-17 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.element .text-wrapper-18 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 470px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.element .shape-14 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: 277px;
+  position: absolute;
+  top: 1px;
+  width: 860px;
+}
+
+.element .text-wrapper-19 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 620px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.element .UPLOAD-PHOTO-size {
+  color: #000000;
+  font-family: "Old Standard TT", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 876px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element .overlap-17 {
+  height: 57px;
+  left: -1453px;
+  position: absolute;
+  top: 1123px;
+  width: 454px;
+}
+
+.element .text-wrapper-20 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 347px;
+}
+
+.element .text-wrapper-21 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element .overlap-18 {
+  height: 79px;
+  left: -1453px;
+  position: absolute;
+  top: 652px;
+  width: 1137px;
+}
+
+.element .text-wrapper-22 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 347px;
+}
+
+.element .text-wrapper-23 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 663px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.element .text-wrapper-24 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.element .text-wrapper-25 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 963px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.element .shape-15 {
+  background-color: #00000021;
+  border-radius: 10px;
+  height: 4px;
+  left: -991px;
+  position: absolute;
+  top: 153px;
+  width: 235px;
+}
+
+.element .shape-16 {
+  background-color: #00000014;
+  border-radius: 10px;
+  height: 4px;
+  left: -391px;
+  position: absolute;
+  top: 153px;
+  width: 225px;
+}
+
+.element .shape-17 {
+  background-color: #00000014;
+  border-radius: 10px;
+  height: 4px;
+  left: -691px;
+  position: absolute;
+  top: 153px;
+  width: 235px;
+}
+
+.element .shape-18 {
+  background-color: #0000003d;
+  border-radius: 10px;
+  height: 4px;
+  left: -1612px;
+  position: absolute;
+  top: 153px;
+  width: 250px;
+}
+
+.element .shape-19 {
+  background-color: #0000001f;
+  border-radius: 10px;
+  height: 4px;
+  left: -1291px;
+  position: absolute;
+  top: 153px;
+  width: 235px;
+}
+
+.element .overlap-19 {
+  height: 57px;
+  left: -1453px;
+  position: absolute;
+  top: 1243px;
+  width: 454px;
+}
+
+.element .text-wrapper-26 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1364px;
+  width: 347px;
+}
+
+.element .text-wrapper-27 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1474px;
+  width: 347px;
+}
+
+.element .text-wrapper-28 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1594px;
+  width: 347px;
+}
+
+.element .text-wrapper-29 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1714px;
+  width: 347px;
+}
+
+.element .text-wrapper-30 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1824px;
+  width: 347px;
+}
+
+.element .text-wrapper-31 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1934px;
+  width: 347px;
+}
+
+.element .shape-20 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 25px;
+  left: -1176px;
+  position: absolute;
+  top: 857px;
+  width: 860px;
+}
+
+.element .text-wrapper-32 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2054px;
+  width: 347px;
+}
+
+.element .text-wrapper-33 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2174px;
+  width: 347px;
+}
+
+.element .text-wrapper-34 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1066px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2056px;
+}
+
+.element .text-wrapper-35 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1936px;
+}
+
+.element .text-wrapper-36 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -816px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1123px;
+}
+
+.element .text-wrapper-37 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -548px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1123px;
+}
+
+.element .p {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1596px;
+}
+
+.element .text-wrapper-38 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1826px;
+}
+
+.element .text-wrapper-39 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1476px;
+}
+
+.element .text-wrapper-40 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -816px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1243px;
+}
+
+.element .text-wrapper-41 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1716px;
+}
+
+.element .DD-MM-YYYY {
+  height: 36px;
+  left: -5082px;
+  position: absolute;
+  top: 15220px;
+  width: 169px;
+}
+
+.element .text-wrapper-42 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -548px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1243px;
+}

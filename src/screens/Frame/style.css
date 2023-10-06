@@ -1,0 +1,505 @@
+.frame {
+  height: 1346px;
+  position: relative;
+  width: 1443px;
+}
+
+.frame .overlap {
+  background-color: #054470;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 102px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1443px;
+}
+
+.frame .component-5-group-45 {
+  background-image: url(https://c.animaapp.com/Mt9A2L47/img/user-fill-1.svg) !important;
+  left: 1290px !important;
+  position: absolute !important;
+  top: 34px !important;
+}
+
+.frame .exit {
+  background-image: url(https://c.animaapp.com/Mt9A2L47/img/exit-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  left: 1366px;
+  position: absolute;
+  top: 34px;
+  width: 32px;
+}
+
+.frame .image {
+  height: 71px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 124px;
+}
+
+.frame .group {
+  height: 24px;
+  left: 124px;
+  position: absolute;
+  top: 176px;
+  width: 1195px;
+}
+
+.frame .div {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 0;
+  padding: 0px 4.6px 0.28px 0px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.frame .span-muisteplabel {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-bottom: -0.28px;
+  padding: 0px 8px 0px 0px;
+  position: relative;
+}
+
+.frame .SVG {
+  align-self: stretch;
+  background-image: url(https://c.animaapp.com/Mt9A2L47/img/vector-6.svg);
+  background-size: 100% 100%;
+  position: relative;
+  width: 24px;
+}
+
+.frame .text-wrapper {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+}
+
+.frame .div-wrapper {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 45px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 157px;
+}
+
+.frame .div-2 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 109px;
+}
+
+.frame .SVG-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 202px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.frame .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 8px;
+}
+
+.frame .div-3 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 242px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 156px;
+}
+
+.frame .span-muisteplabel-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 398px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.frame .div-4 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 438px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 157px;
+}
+
+.frame .span-muisteplabel-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 595px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.frame .div-5 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 635px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 156px;
+}
+
+.frame .span-muisteplabel-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 791px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.frame .div-6 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  left: 831px;
+  position: absolute;
+  top: 12px;
+  width: 135px;
+}
+
+.frame .span-muisteplabel-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 966px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.frame .SVG-2 {
+  align-self: stretch;
+  background-image: url(https://c.animaapp.com/Mt9A2L47/img/vector-1.svg);
+  background-size: 100% 100%;
+  position: relative;
+  width: 24px;
+}
+
+.frame .div-7 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  left: 1020px;
+  position: absolute;
+  top: 12px;
+  width: 135px;
+}
+
+.frame .span-muisteplabel-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 1155px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.frame .first-sample-date {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.frame .span {
+  color: #054470;
+}
+
+.frame .text-wrapper-3 {
+  color: #ff0000;
+}
+
+.frame .capital-investment {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 388px;
+  white-space: nowrap;
+}
+
+.frame .feasible-with {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 503px;
+  white-space: nowrap;
+}
+
+.frame .PSW-PPAP-date {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 766px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.frame .part-feasible {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 766px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 388px;
+  white-space: nowrap;
+}
+
+.frame .part-not-feasible {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: transparent;
+  display: -webkit-box;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  height: 20px;
+  left: 766px;
+  letter-spacing: 0;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-overflow: ellipsis;
+  top: 513px;
+  width: 533px;
+}
+
+.frame .overlap-group {
+  border-radius: 4px;
+  height: 51px;
+  left: 124px;
+  position: absolute;
+  top: 308px;
+  width: 539px;
+}
+
+.frame .text-wrapper-4 {
+  color: #00000061;
+  font-family: "Exo", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 22px;
+  left: 31px;
+  letter-spacing: 0.13px;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 337px;
+}
+
+.frame .fieldset-styles {
+  border: 1px solid;
+  border-color: #00000042;
+  border-radius: 4px;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 539px;
+}
+
+.frame .overlap-2 {
+  border-radius: 4px;
+  height: 51px;
+  left: 124px;
+  position: absolute;
+  top: 423px;
+  width: 539px;
+}
+
+.frame .overlap-3 {
+  border-radius: 4px;
+  height: 51px;
+  left: 124px;
+  position: absolute;
+  top: 538px;
+  width: 539px;
+}
+
+.frame .overlap-4 {
+  border-radius: 4px;
+  height: 51px;
+  left: 766px;
+  position: absolute;
+  top: 308px;
+  width: 539px;
+}
+
+.frame .overlap-5 {
+  border-radius: 4px;
+  height: 51px;
+  left: 766px;
+  position: absolute;
+  top: 423px;
+  width: 539px;
+}
+
+.frame .overlap-6 {
+  border-radius: 4px;
+  height: 51px;
+  left: 766px;
+  position: absolute;
+  top: 538px;
+  width: 539px;
+}
+
+.frame .overlap-7 {
+  background-color: #054470;
+  border: 1px solid;
+  border-color: #0000004c;
+  border-radius: 5px;
+  height: 54px;
+  left: 769px;
+  position: absolute;
+  top: 811px;
+  width: 185px;
+}
+
+.frame .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 500;
+  height: 20px;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.frame .overlap-group-2 {
+  background-color: #054470;
+  border: 1px solid;
+  border-color: #0000004c;
+  border-radius: 5px;
+  height: 54px;
+  left: 483px;
+  position: absolute;
+  top: 811px;
+  width: 185px;
+}
+
+.frame .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 500;
+  height: 20px;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}

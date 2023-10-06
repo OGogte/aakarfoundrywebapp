@@ -1,0 +1,284 @@
+.frame-login {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame-login .div {
+  background: linear-gradient(
+    180deg,
+    rgb(147, 211, 255) 0%,
+    rgb(143.44, 208.06, 251.63) 0.01%,
+    rgb(90, 164, 201) 69.58%,
+    rgb(38, 58, 73) 100%
+  );
+  background-color: rgba(255, 255, 255, 1);
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  width: 100vw;
+}
+
+.frame-login .overlap-group {
+  height: 20px;
+  left: 117px;
+  position: absolute;
+  top: 538px;
+  width: 313px;
+}
+
+.frame-login .lines {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 313px;
+}
+
+.frame-login .line {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 138px;
+}
+
+.frame-login .img {
+  height: 1px;
+  left: 175px;
+  position: absolute;
+  top: -1px;
+  width: 138px;
+}
+
+.frame-login .text-wrapper {
+  color: #00000080;
+  font-family: "Exo", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 30px;
+}
+
+.frame-login .new-member-create {
+  color: transparent;
+  font-family: "Exo", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 570px;
+  width: 237px;
+}
+
+.frame-login .span {
+  color: #00000080;
+}
+
+.frame-login .text-wrapper-2 {
+  color: #ffffff;
+}
+
+.frame-login .frame {
+  background-color: #ca4747;
+  border-radius: 30px;
+  box-shadow: 0px 1px 2px #00000040;
+  height: 41px;
+  left: 111px;
+  overflow: hidden;
+  position: absolute;
+  top: 459px;
+  width: 329px;
+}
+
+.frame-login .text-wrapper-3 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  height: 30px;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 74px;
+}
+
+.frame-login .div-wrapper {
+  border: 1.3px solid;
+  border-color: #ffffffb5;
+  border-radius: 4px;
+  height: 41px;
+  left: 111px;
+  overflow: hidden;
+  position: absolute;
+  top: 379px;
+  width: 329px;
+}
+
+.frame-login .text-wrapper-4 {
+  color: #32323280;
+  font-family: "Exo", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 24px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 136px;
+}
+
+.frame-login .frame-2 {
+  border: 1.3px solid;
+  border-color: #ffffffb5;
+  border-radius: 4px;
+  height: 41px;
+  left: 111px;
+  overflow: hidden;
+  position: absolute;
+  top: 302px;
+  width: 329px;
+}
+
+.frame-login .text-wrapper-5 {
+  color: #32323280;
+  font-family: "Exo", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 20px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 79px;
+}
+
+.frame-login .password-hide-and {
+  height: 20px !important;
+  left: 293px !important;
+  position: absolute !important;
+  top: 11px !important;
+  width: 20px !important;
+}
+
+.frame-login .frame-3 {
+  border: 1.3px solid;
+  border-color: #ffffffb5;
+  border-radius: 4px;
+  height: 41px;
+  left: 111px;
+  overflow: hidden;
+  position: absolute;
+  top: 225px;
+  width: 329px;
+}
+
+.frame-login .text-wrapper-6 {
+  color: #31313173;
+  font-family: "Exo", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 22px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 117px;
+}
+
+.frame-login .overlap {
+  height: 468px;
+  left: 578px;
+  position: absolute;
+  top: 78px;
+  width: 471px;
+}
+
+.frame-login .hexagons {
+  height: 255px;
+  left: 9px;
+  position: absolute;
+  top: 212px;
+  width: 434px;
+}
+
+.frame-login .cloud-storage-image {
+  height: 364px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 449px;
+}
+
+.frame-login .ellipse {
+  background: linear-gradient(180deg, rgb(5, 68, 112) 3.8%, rgba(89.02, 47.65, 243.31, 0.82) 100%);
+  border-radius: 61px;
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.frame-login .ellipse-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(5, 68, 112) 0%,
+    rgba(89.02, 47.65, 243.31, 0.82) 100%,
+    rgb(119, 163, 195) 100%
+  );
+  border-radius: 97px;
+  height: 194px;
+  left: 561px;
+  position: absolute;
+  top: 549px;
+  width: 194px;
+}
+
+.frame-login .ellipse-3 {
+  background: linear-gradient(180deg, rgb(5, 68, 112) 2.84%, rgb(46.8, 108.77, 153.85) 100%);
+  border-radius: 97px;
+  height: 194px;
+  left: 1055px;
+  position: absolute;
+  top: 304px;
+  width: 194px;
+}
+
+.frame-login .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 29px;
+  font-weight: 600;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 152px;
+  width: 287px;
+}
+
+.frame-login .image {
+  height: 78px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 118px;
+}

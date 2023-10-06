@@ -1,0 +1,1 @@
+export { NewProductDev } from "./NewProductDev";

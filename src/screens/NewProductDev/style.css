@@ -1,0 +1,2166 @@
+.new-product-dev {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.new-product-dev .div {
+  background-color: #ffffff;
+  height: 1345px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.new-product-dev .text-wrapper {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1383px;
+  width: 347px;
+}
+
+.new-product-dev .overlap {
+  height: 490px;
+  left: -1453px;
+  position: absolute;
+  top: 237px;
+  width: 1257px;
+}
+
+.new-product-dev .text-wrapper-2 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 317px;
+  width: 347px;
+}
+
+.new-product-dev .text-wrapper-3 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 318px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.new-product-dev .text-wrapper-4 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 318px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.new-product-dev .upload {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.24) 0%);
+  border-radius: 276px;
+  height: 25px;
+  left: 282px;
+  overflow: hidden;
+  position: absolute;
+  top: 318px;
+  transform: rotate(0.69deg);
+  width: 40px;
+}
+
+.new-product-dev .rectangle {
+  background: linear-gradient(180deg, rgba(245, 245, 245, 0) 0%, rgba(255, 0, 214.2, 0) 100%);
+  height: 461px;
+  left: -307px;
+  position: relative;
+  top: -148px;
+  transform: rotate(-0.69deg);
+  width: 1224px;
+}
+
+.new-product-dev .rectangle-wrapper {
+  border-radius: 276px;
+  height: 25px;
+  left: 412px;
+  overflow: hidden;
+  position: absolute;
+  top: 318px;
+  transform: rotate(0.69deg);
+  width: 40px;
+}
+
+.new-product-dev .rectangle-2 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.25) 0%);
+  border-radius: 20px;
+  height: 25px;
+}
+
+.new-product-dev .upload-2 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%);
+  border-radius: 276px;
+  height: 25px;
+  left: 282px;
+  position: absolute;
+  top: 374px;
+  transform: rotate(0.69deg);
+  width: 40px;
+}
+
+.new-product-dev .upload-3 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.26) 0%);
+  border-radius: 276px;
+  height: 25px;
+  left: 412px;
+  position: absolute;
+  top: 374px;
+  transform: rotate(0.69deg);
+  width: 40px;
+}
+
+.new-product-dev .rectangle-3 {
+  background: linear-gradient(180deg, rgba(245, 245, 245, 0) 0%, rgba(255, 0, 214.2, 0) 100%);
+  height: 461px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 1224px;
+}
+
+.new-product-dev .shape {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: 277px;
+  position: absolute;
+  top: 456px;
+  width: 250px;
+}
+
+.new-product-dev .shape-2 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: 587px;
+  position: absolute;
+  top: 456px;
+  width: 250px;
+}
+
+.new-product-dev .shape-3 {
+  background-color: #0000002e;
+  border-radius: 10px;
+  height: 35px;
+  left: 887px;
+  position: absolute;
+  top: 456px;
+  width: 250px;
+}
+
+.new-product-dev .text-wrapper-5 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 427px;
+  width: 347px;
+}
+
+.new-product-dev .shape-4 {
+  background-color: #0000003d;
+  border-radius: 10px;
+  height: 35px;
+  left: 277px;
+  position: absolute;
+  top: 169px;
+  width: 250px;
+}
+
+.new-product-dev .shape-5 {
+  background-color: #00000042;
+  border-radius: 10px;
+  height: 35px;
+  left: 887px;
+  position: absolute;
+  top: 169px;
+  width: 250px;
+}
+
+.new-product-dev .shape-6 {
+  background-color: #00000038;
+  border-radius: 10px;
+  height: 35px;
+  left: 587px;
+  position: absolute;
+  top: 169px;
+  width: 250px;
+}
+
+.new-product-dev .upload-4 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.22) 0%);
+  border-radius: 276px;
+  height: 25px;
+  left: 562px;
+  position: absolute;
+  top: 374px;
+  transform: rotate(0.69deg);
+  width: 40px;
+}
+
+.new-product-dev .text-wrapper-6 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 663px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 426px;
+}
+
+.new-product-dev .text-wrapper-7 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 426px;
+}
+
+.new-product-dev .text-wrapper-8 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 963px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 426px;
+}
+
+.new-product-dev .overlap-group {
+  height: 73px;
+  left: -1453px;
+  position: absolute;
+  top: 767px;
+  width: 837px;
+}
+
+.new-product-dev .text-wrapper-9 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 347px;
+}
+
+.new-product-dev .shape-7 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: 277px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.new-product-dev .shape-8 {
+  background-color: #00000038;
+  border-radius: 10px;
+  height: 35px;
+  left: 587px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.new-product-dev .text-wrapper-10 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 396px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.new-product-dev .overlap-2 {
+  height: 56px;
+  left: -1453px;
+  position: absolute;
+  top: 894px;
+  width: 1137px;
+}
+
+.new-product-dev .text-wrapper-11 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 347px;
+}
+
+.new-product-dev .text-wrapper-12 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.new-product-dev .text-wrapper-13 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 470px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.new-product-dev .shape-9 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: 277px;
+  position: absolute;
+  top: 16px;
+  width: 860px;
+}
+
+.new-product-dev .overlap-3 {
+  height: 77px;
+  left: -1453px;
+  position: absolute;
+  top: 963px;
+  width: 1137px;
+}
+
+.new-product-dev .text-wrapper-14 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 347px;
+}
+
+.new-product-dev .text-wrapper-15 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.new-product-dev .text-wrapper-16 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 470px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.new-product-dev .shape-10 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: 277px;
+  position: absolute;
+  top: 22px;
+  width: 860px;
+}
+
+.new-product-dev .text-wrapper-17 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 620px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.new-product-dev .UPLOAD-PHOTO-size {
+  color: #000000;
+  font-family: "Old Standard TT", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 876px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.new-product-dev .overlap-4 {
+  height: 57px;
+  left: -1453px;
+  position: absolute;
+  top: 1123px;
+  width: 1137px;
+}
+
+.new-product-dev .text-wrapper-18 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 347px;
+}
+
+.new-product-dev .shape-11 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: 277px;
+  position: absolute;
+  top: 5px;
+  width: 860px;
+}
+
+.new-product-dev .text-wrapper-19 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.new-product-dev .text-wrapper-20 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 637px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.new-product-dev .text-wrapper-21 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 906px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.new-product-dev .shape-12 {
+  background-color: #00000021;
+  border-radius: 10px;
+  height: 5px;
+  left: -991px;
+  position: absolute;
+  top: 213px;
+  width: 235px;
+}
+
+.new-product-dev .shape-13 {
+  background-color: #00000014;
+  border-radius: 10px;
+  height: 5px;
+  left: -391px;
+  position: absolute;
+  top: 213px;
+  width: 225px;
+}
+
+.new-product-dev .shape-14 {
+  background-color: #00000014;
+  border-radius: 10px;
+  height: 5px;
+  left: -691px;
+  position: absolute;
+  top: 213px;
+  width: 235px;
+}
+
+.new-product-dev .shape-15 {
+  background-color: #0000003d;
+  border-radius: 10px;
+  height: 5px;
+  left: -1612px;
+  position: absolute;
+  top: 213px;
+  width: 250px;
+}
+
+.new-product-dev .shape-16 {
+  background-color: #0000001f;
+  border-radius: 10px;
+  height: 5px;
+  left: -1291px;
+  position: absolute;
+  top: 213px;
+  width: 235px;
+}
+
+.new-product-dev .overlap-5 {
+  height: 63px;
+  left: -1453px;
+  position: absolute;
+  top: 1243px;
+  width: 1137px;
+}
+
+.new-product-dev .shape-17 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: 277px;
+  position: absolute;
+  top: 28px;
+  width: 860px;
+}
+
+.new-product-dev .shape-18 {
+  background-color: #0000003d;
+  border-radius: 10px;
+  height: 35px;
+  left: -566px;
+  position: absolute;
+  top: 767px;
+  width: 250px;
+}
+
+.new-product-dev .overlap-6 {
+  height: 74px;
+  left: -1453px;
+  position: absolute;
+  top: 1346px;
+  width: 1137px;
+}
+
+.new-product-dev .text-wrapper-22 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 347px;
+}
+
+.new-product-dev .shape-19 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: 277px;
+  position: absolute;
+  top: 0;
+  width: 860px;
+}
+
+.new-product-dev .shape-20 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: -1176px;
+  position: absolute;
+  top: 841px;
+  width: 860px;
+}
+
+.new-product-dev .text-wrapper-23 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1474px;
+  width: 347px;
+}
+
+.new-product-dev .text-wrapper-24 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1594px;
+  width: 347px;
+}
+
+.new-product-dev .text-wrapper-25 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1714px;
+  width: 347px;
+}
+
+.new-product-dev .shape-21 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: -1176px;
+  position: absolute;
+  top: 1059px;
+  width: 860px;
+}
+
+.new-product-dev .text-wrapper-26 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1824px;
+  width: 347px;
+}
+
+.new-product-dev .text-wrapper-27 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1934px;
+  width: 347px;
+}
+
+.new-product-dev .shape-22 {
+  background-color: #00000036;
+  border-radius: 10px;
+  height: 35px;
+  left: -1176px;
+  position: absolute;
+  top: 1196px;
+  width: 860px;
+}
+
+.new-product-dev .text-wrapper-28 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2054px;
+  width: 347px;
+}
+
+.new-product-dev .text-wrapper-29 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2174px;
+  width: 347px;
+}
+
+.new-product-dev .text-wrapper-30 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1066px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2056px;
+}
+
+.new-product-dev .text-wrapper-31 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1936px;
+}
+
+.new-product-dev .p {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1596px;
+}
+
+.new-product-dev .text-wrapper-32 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1826px;
+}
+
+.new-product-dev .text-wrapper-33 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1476px;
+}
+
+.new-product-dev .text-wrapper-34 {
+  color: #000000;
+  font-family: "OFL Sorts Mill Goudy TT-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: -1076px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1716px;
+}
+
+.new-product-dev .DD-MM-YYYY {
+  height: 36px;
+  left: -8138px;
+  position: absolute;
+  top: 15218px;
+  width: 169px;
+}
+
+.new-product-dev .frame {
+  height: 1346px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 1443px;
+}
+
+.new-product-dev .overlap-7 {
+  background-color: #054470;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 102px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1443px;
+}
+
+.new-product-dev .component-5-group-45 {
+  background-image: url(https://c.animaapp.com/euZ0QV6O/img/user-fill-1.svg) !important;
+  left: 1290px !important;
+  position: absolute !important;
+  top: 34px !important;
+}
+
+.new-product-dev .exit {
+  background-image: url(https://c.animaapp.com/euZ0QV6O/img/exit-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  left: 1366px;
+  position: absolute;
+  top: 34px;
+  width: 32px;
+}
+
+.new-product-dev .image {
+  height: 71px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 124px;
+}
+
+.new-product-dev .group {
+  height: 24px;
+  left: 124px;
+  position: absolute;
+  top: 176px;
+  width: 1195px;
+}
+
+.new-product-dev .span-muisteplabel-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 0;
+  padding: 0px 4.6px 0.28px 0px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.new-product-dev .span-muisteplabel {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-bottom: -0.28px;
+  padding: 0px 8px 0px 0px;
+  position: relative;
+}
+
+.new-product-dev .SVG {
+  align-self: stretch;
+  background-image: url(https://c.animaapp.com/euZ0QV6O/img/vector-6.svg);
+  background-size: 100% 100%;
+  position: relative;
+  width: 24px;
+}
+
+.new-product-dev .text-wrapper-35 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+}
+
+.new-product-dev .div-wrapper {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 45px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 157px;
+}
+
+.new-product-dev .div-2 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 109px;
+}
+
+.new-product-dev .SVG-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 202px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.new-product-dev .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 8px;
+}
+
+.new-product-dev .div-3 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 242px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 156px;
+}
+
+.new-product-dev .span-muisteplabel-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 398px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.new-product-dev .div-4 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 438px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 157px;
+}
+
+.new-product-dev .span-muisteplabel-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 595px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.new-product-dev .div-5 {
+  align-items: center;
+  display: flex;
+  height: 1px;
+  left: 635px;
+  padding: 0px 12px 0px 5px;
+  position: absolute;
+  top: 12px;
+  width: 156px;
+}
+
+.new-product-dev .span-muisteplabel-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 791px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.new-product-dev .div-6 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  left: 831px;
+  position: absolute;
+  top: 12px;
+  width: 135px;
+}
+
+.new-product-dev .span-muisteplabel-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 966px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.new-product-dev .div-7 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+  border-color: #054470;
+  border-left-style: solid;
+  border-left-width: 0.8px;
+  border-right-style: solid;
+  border-right-width: 0.8px;
+  height: 1px;
+  left: 1020px;
+  position: absolute;
+  top: 12px;
+  width: 135px;
+}
+
+.new-product-dev .span-muisteplabel-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 1155px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.new-product-dev .SVG-2 {
+  align-self: stretch;
+  background-image: url(https://c.animaapp.com/euZ0QV6O/img/vector.svg);
+  background-size: 100% 100%;
+  position: relative;
+  width: 24px;
+}
+
+.new-product-dev .overlap-8 {
+  background-color: #054470;
+  border: 1px solid;
+  border-color: #0000004c;
+  border-radius: 5px;
+  height: 54px;
+  left: 647px;
+  position: absolute;
+  top: 1191px;
+  width: 185px;
+}
+
+.new-product-dev .text-wrapper-37 {
+  color: #ffffff;
+  font-family: "Exo", Helvetica;
+  font-size: 19px;
+  font-weight: 500;
+  height: 20px;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-9 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 73px;
+  position: absolute;
+  top: 350px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-38 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-10 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 73px;
+  position: absolute;
+  top: 453px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-39 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 20px;
+  width: 182px;
+}
+
+.new-product-dev .overlap-11 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 73px;
+  position: absolute;
+  top: 556px;
+  width: 215px;
+}
+
+.new-product-dev .overlap-12 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 73px;
+  position: absolute;
+  top: 659px;
+  width: 215px;
+}
+
+.new-product-dev .overlap-13 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 73px;
+  position: absolute;
+  top: 761px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-40 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 19px;
+  width: 182px;
+}
+
+.new-product-dev .overlap-14 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 73px;
+  position: absolute;
+  top: 864px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-41 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 21px;
+  width: 182px;
+}
+
+.new-product-dev .overlap-15 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 720px;
+  position: absolute;
+  top: 350px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-42 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-16 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 720px;
+  position: absolute;
+  top: 453px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-43 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-17 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 720px;
+  position: absolute;
+  top: 556px;
+  width: 215px;
+}
+
+.new-product-dev .ellipse-wrapper {
+  background-color: #d9d9d9;
+  border-radius: 13.5px/13px;
+  height: 26px;
+  left: 45px;
+  position: absolute;
+  top: 19px;
+  width: 27px;
+}
+
+.new-product-dev .ellipse {
+  background-color: #20b038;
+  border-radius: 6px;
+  height: 12px;
+  left: 8px;
+  position: relative;
+  top: 7px;
+  width: 12px;
+}
+
+.new-product-dev .overlap-18 {
+  background-color: #d9d9d9;
+  border-radius: 14px/13px;
+  height: 26px;
+  left: 94px;
+  position: absolute;
+  top: 19px;
+  width: 28px;
+}
+
+.new-product-dev .ellipse-2 {
+  background-color: #5a7386;
+  border-radius: 6px;
+  height: 12px;
+  left: 8px;
+  position: relative;
+  top: 7px;
+  width: 12px;
+}
+
+.new-product-dev .overlap-19 {
+  background-color: #d9d9d9;
+  border-radius: 13.5px/13px;
+  height: 26px;
+  left: 144px;
+  position: absolute;
+  top: 19px;
+  width: 27px;
+}
+
+.new-product-dev .ellipse-3 {
+  background-color: #9d342f;
+  border-radius: 6px;
+  height: 12px;
+  left: 8px;
+  position: relative;
+  top: 7px;
+  width: 12px;
+}
+
+.new-product-dev .overlap-20 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 720px;
+  position: absolute;
+  top: 659px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-44 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date {
+  height: 19px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-21 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 720px;
+  position: absolute;
+  top: 761px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-45 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 154px;
+}
+
+.new-product-dev .img {
+  height: 19px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-22 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 720px;
+  position: absolute;
+  top: 864px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-46 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-2 {
+  height: 19px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-23 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 288px;
+  position: absolute;
+  top: 350px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-47 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-24 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 288px;
+  position: absolute;
+  top: 453px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-48 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-25 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 288px;
+  position: absolute;
+  top: 556px;
+  width: 217px;
+}
+
+.new-product-dev .overlap-26 {
+  background-color: #d9d9d9;
+  border-radius: 13.5px/13px;
+  height: 26px;
+  left: 46px;
+  position: absolute;
+  top: 19px;
+  width: 27px;
+}
+
+.new-product-dev .ellipse-4 {
+  background-color: #20b038;
+  border-radius: 6px;
+  height: 12px;
+  left: 7px;
+  position: relative;
+  top: 7px;
+  width: 12px;
+}
+
+.new-product-dev .overlap-27 {
+  background-color: #d9d9d9;
+  border-radius: 14px/13px;
+  height: 26px;
+  left: 95px;
+  position: absolute;
+  top: 19px;
+  width: 28px;
+}
+
+.new-product-dev .overlap-28 {
+  background-color: #d9d9d9;
+  border-radius: 13.5px/13px;
+  height: 26px;
+  left: 145px;
+  position: absolute;
+  top: 19px;
+  width: 27px;
+}
+
+.new-product-dev .overlap-29 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 288px;
+  position: absolute;
+  top: 659px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-49 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-3 {
+  height: 19px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-30 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 288px;
+  position: absolute;
+  top: 761px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-50 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-4 {
+  height: 19px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-31 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 288px;
+  position: absolute;
+  top: 864px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-51 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-5 {
+  height: 19px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-32 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 935px;
+  position: absolute;
+  top: 350px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-52 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-33 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 935px;
+  position: absolute;
+  top: 453px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-53 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-34 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 935px;
+  position: absolute;
+  top: 556px;
+  width: 217px;
+}
+
+.new-product-dev .overlap-35 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 935px;
+  position: absolute;
+  top: 659px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-54 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-6 {
+  height: 19px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-36 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 935px;
+  position: absolute;
+  top: 761px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-55 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-7 {
+  height: 19px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-37 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 935px;
+  position: absolute;
+  top: 864px;
+  width: 217px;
+}
+
+.new-product-dev .text-wrapper-56 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-8 {
+  height: 19px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 22px;
+}
+
+.new-product-dev .design-tool-room-wrapper {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 505px;
+  position: absolute;
+  top: 350px;
+  width: 215px;
+}
+
+.new-product-dev .design-tool-room {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-group-2 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 505px;
+  position: absolute;
+  top: 453px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-57 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-38 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 505px;
+  position: absolute;
+  top: 556px;
+  width: 215px;
+}
+
+.new-product-dev .overlap-39 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 505px;
+  position: absolute;
+  top: 659px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-58 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-9 {
+  height: 19px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-40 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 505px;
+  position: absolute;
+  top: 761px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-59 {
+  color: #666666;
+  font-family: "Exo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 154px;
+}
+
+.new-product-dev .calendar-date-date-10 {
+  height: 19px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-41 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 505px;
+  position: absolute;
+  top: 864px;
+  width: 215px;
+}
+
+.new-product-dev .calendar-date-date-11 {
+  height: 19px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 22px;
+}
+
+.new-product-dev .overlap-42 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 1152px;
+  position: absolute;
+  top: 350px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-60 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-43 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 1152px;
+  position: absolute;
+  top: 453px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-61 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.new-product-dev .overlap-44 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 1152px;
+  position: absolute;
+  top: 556px;
+  width: 215px;
+}
+
+.new-product-dev .overlap-45 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 64px;
+  left: 1152px;
+  position: absolute;
+  top: 659px;
+  width: 215px;
+}
+
+.new-product-dev .overlap-46 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 1152px;
+  position: absolute;
+  top: 761px;
+  width: 215px;
+}
+
+.new-product-dev .overlap-47 {
+  background-color: #98c8ec;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  left: 1152px;
+  position: absolute;
+  top: 864px;
+  width: 215px;
+}
+
+.new-product-dev .text-wrapper-62 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 9px;
+  font-weight: 600;
+  height: 25px;
+  left: 1028px;
+  letter-spacing: 0;
+  line-height: 12.2px;
+  position: absolute;
+  text-align: center;
+  top: 992px;
+  width: 75px;
+}
+
+.new-product-dev .text-wrapper-63 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 9px;
+  font-weight: 600;
+  height: 25px;
+  left: 1130px;
+  letter-spacing: 0;
+  line-height: 12.2px;
+  position: absolute;
+  text-align: center;
+  top: 992px;
+  width: 75px;
+}
+
+.new-product-dev .text-wrapper-64 {
+  color: #054470;
+  font-family: "Exo", Helvetica;
+  font-size: 9px;
+  font-weight: 600;
+  height: 13px;
+  left: 1232px;
+  letter-spacing: 0;
+  line-height: 12.2px;
+  position: absolute;
+  text-align: center;
+  top: 998px;
+  width: 75px;
+}
+
+.new-product-dev .rectangle-4 {
+  background-color: #20b038;
+  height: 21px;
+  left: 1028px;
+  position: absolute;
+  top: 967px;
+  width: 75px;
+}
+
+.new-product-dev .rectangle-5 {
+  background-color: #5a7386;
+  height: 21px;
+  left: 1130px;
+  position: absolute;
+  top: 967px;
+  width: 75px;
+}
+
+.new-product-dev .rectangle-6 {
+  background-color: #9d342f;
+  height: 21px;
+  left: 1232px;
+  position: absolute;
+  top: 967px;
+  width: 75px;
+}
