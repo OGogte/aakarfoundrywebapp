@@ -15,21 +15,27 @@ export const Login = () => {
         </div>
         <p className="new-member-create">
           <span className="span">New member? </span>
-          <span className="text-wrapper-2">Create Account and more</span>
+          <span className="text-wrapper-2">Create Account</span>
         </p>
         <div className="frame">
-          <div className="text-wrapper-3">Login</div>
-        </div>
-        <div className="div-wrapper">
-          <div className="text-wrapper-4">Confirm password *</div>
-        </div>
-        <div className="frame-2">
-          <div className="text-wrapper-5">Password *</div>
-          <Property1Hide className="password-hide-and" color="#1B2547" opacity="0.22" />
+        <div className="text-wrappers-3">
+        <button type="submit">Login</button>
+      </div>
+      
         </div>
         <div className="frame-3">
-          <div className="text-wrapper-6">Work email *</div>
-        </div>
+        <input type="text" placeholder="Work email *" className="text-wrapper-6" />
+      </div>
+      
+      <div className="frame-2">
+        <input type="password" placeholder="Password *" className="text-wrapper-5" />
+        <Property1Hide className="password-hide-and" color="#1B2547" opacity="0.22" />
+      </div>
+      
+      <div className="div-wrapper">
+        <input type="password" placeholder="Confirm password *" className="text-wrapper-4" />
+      </div>
+z      
         <div className="overlap">
           <img className="hexagons" alt="Hexagons" src="https://c.animaapp.com/nU8qvlv2/img/hexagons@2x.png" />
           <img className="cloud-storage-image" alt="Cloud storage image" src="https://c.animaapp.com/nU8qvlv2/img/cloud-storage-image@2x.png"/>
