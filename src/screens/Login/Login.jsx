@@ -17,9 +17,6 @@ export const Login = () => {
         </div>
         <div className="ellipse-2" />
         <div className="ellipse-3" />
-
-        {/*form code*/}
-
         <form>
         <div className="emailBox">
           <input type="email" id="email" placeholder="Email" />

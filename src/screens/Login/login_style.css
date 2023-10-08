@@ -92,7 +92,6 @@
   width: 118px;
 }
 .frame-login .emailBox input[type="email"]{
-  /* margin: 3rem; */
   position: absolute;
   left: 12rem;
   top: 20rem;
@@ -109,11 +108,9 @@
   border: 1px solid black; 
 }
 .frame-login .passwordBox input[type="password"]{
-  /* margin:3rem; */
   position: absolute;
   left: 12rem;
   top: 25rem;
-  /* height: 15rem; */
   height: 2rem;
   width: 23rem;
   background-color: transparent;
@@ -127,8 +124,7 @@
   border: 1px solid black; 
 }
 .frame-login .loginBox {
-  /* margin:3rem; */
-  border: none; /* Remove default button border */
+  border: none;
   border-radius: 2rem;
   position: absolute;
   left: 12rem;
