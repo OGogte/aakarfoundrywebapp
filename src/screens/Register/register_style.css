@@ -1,4 +1,4 @@
-.frame-login {
+.frame-register {
   background-color: rgba(255, 255, 255, 1);
   /* display: flex; */
   /* flex-direction: column; */
@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.frame-login .div {
+.frame-register .div {
   background: linear-gradient(
     180deg,
     rgb(147, 211, 255) 0%,
@@ -21,7 +21,7 @@
   width: 100vw;
 }
 
-.frame-login .overlap {
+.frame-register .overlap {
   height: 20rem;
   left: 57rem;
   position: absolute;
@@ -29,7 +29,7 @@
   width: 471px;
 }
 
-.frame-login .hexagons {
+.frame-register .hexagons {
   height: 255px;
   left: 9px;
   position: absolute;
@@ -37,7 +37,7 @@
   width: 434px;
 }
 
-.frame-login .cloud-storage-image {
+.frame-register .cloud-storage-image {
   height: 364px;
   left: 22px;
   object-fit: cover;
@@ -46,7 +46,7 @@
   width: 449px;
 }
 
-.frame-login .ellipse {
+.frame-register .ellipse {
   background: linear-gradient(180deg, rgb(5, 68, 112) 3.8%, rgba(89.02, 47.65, 243.31, 0.82) 100%);
   border-radius: 61px;
   height: 122px;
@@ -56,7 +56,7 @@
   width: 122px;
 }
 
-.frame-login .ellipse-2 {
+.frame-register .ellipse-2 {
   background: linear-gradient(
     180deg,
     rgb(5, 68, 112) 0%,
@@ -71,7 +71,7 @@
   width: 10rem;
 }
 
-.frame-login .ellipse-3 {
+.frame-register .ellipse-3 {
   background: linear-gradient(180deg, rgb(5, 68, 112) 2.84%, rgb(46.8, 108.77, 153.85) 100%);
   border-radius: 15rem;
   height: 13rem;
@@ -83,7 +83,7 @@
 
 
 
-.frame-login .image {
+.frame-register .image {
   height: 78px;
   left: 17px;
   object-fit: cover;
@@ -91,10 +91,11 @@
   top: 22px;
   width: 118px;
 }
-.frame-login .emailBox input[type="email"]{
+
+.frame-register .nameBox input[type="text"]{
   position: absolute;
   left: 12rem;
-  top: 20rem;
+  top: 14rem;
   height: 2rem;
   width: 23rem;
   background-color: transparent;
@@ -103,14 +104,51 @@
   border-radius: 2px;
   padding-left: 10px;
 }
-.frame-login .emailBox input[type="email"]:focus {
+.frame-register .nameBox input[type="text"]:focus {
   outline: none; 
   border: 1px solid black; 
 }
-.frame-login .passwordBox input[type="password"]{
+
+
+.frame-register .emailBox input[type="email"]{
   position: absolute;
   left: 12rem;
-  top: 25rem;
+  top: 18rem;
+  height: 2rem;
+  width: 23rem;
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  border: 1px solid white;
+  border-radius: 2px;
+  padding-left: 10px;
+}
+.frame-register .emailBox input[type="email"]:focus {
+  outline: none; 
+  border: 1px solid black; 
+}
+
+.frame-register .departmentBox input[type="text"]{
+  position: absolute;
+  left: 12rem;
+  top: 22rem;
+  height: 2rem;
+  width: 23rem;
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  border: 1px solid white;
+  border-radius: 2px;
+  padding-left: 10px;
+}
+.frame-register .nameBox input[type="text"]:focus {
+  outline: none; 
+  border: 1px solid black; 
+}
+
+
+.frame-register .passwordBox input[type="password"]{
+  position: absolute;
+  left: 12rem;
+  top: 26rem;
   height: 2rem;
   width: 23rem;
   background-color: transparent;
@@ -119,16 +157,35 @@
   border-radius: 2px;
   padding-left: 10px;
 }
-.frame-login .emailBox input[type="password"]:focus {
+.frame-register .emailBox input[type="password"]:focus {
   outline: none; 
   border: 1px solid black; 
 }
-.frame-login .loginBox {
+
+.frame-register .confirm_password input[type="password"]{
+  position: absolute;
+  left: 12rem;
+  top: 30rem;
+  height: 2rem;
+  width: 23rem;
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 2px;
+  padding-left: 10px;
+}
+
+.frame-register .confirm_password input[type="password"]:focus {
+  outline: none; 
+  border: 1px solid black; 
+}
+
+.frame-register .loginBox {
   border: none;
   border-radius: 2rem;
   position: absolute;
   left: 12rem;
-  top: 30rem;
+  top: 34rem;
   height: 15rem;
   height: 2rem;
   width: 24rem;
@@ -137,17 +194,17 @@
   border: 1px solid rgb(255, 255, 255);
   font-size: 1.2rem;
 }
-.frame-login .registerLine {
+.frame-register .registerLine {
   position: absolute;
   left: 17rem;
-  top: 34rem;
+  top: 38rem;
 }
-.frame-login .registerLine a{
+.frame-register .registerLine a{
   text-decoration: none;
   color: white;
 }
 
-.frame-login .heading {
+.frame-register .heading {
   color: #ffffff;
   font-family: "Exo", Helvetica;
   font-size: 29px;
@@ -156,6 +213,6 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 16rem;
+  top: 10rem;
   width: 18rem;
 }

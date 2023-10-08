@@ -18,11 +18,12 @@ export const Login = () => {
         <div className="ellipse-2" />
         <div className="ellipse-3" />
         <form>
+        <div className="heading">Login</div>
         <div className="emailBox">
-          <input type="email" id="email" placeholder="Email" />
+          <input type="email" id="email" placeholder="Enter Email" />
         </div>
         <div className="passwordBox">
-          <input type="password" id="password" placeholder="Password" />
+          <input type="password" id="password" placeholder="Enter Password" />
         </div>
 
         <button className="loginBox" type="submit">Login</button>
