@@ -1,8 +1,8 @@
 .frame-login {
   background-color: rgba(255, 255, 255, 1);
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
   width: 100%;
 }
 
@@ -90,4 +90,63 @@
   position: absolute;
   top: 22px;
   width: 118px;
+}
+.frame-login .emailBox input[type="email"]{
+  /* margin: 3rem; */
+  position: absolute;
+  left: 12rem;
+  top: 20rem;
+  height: 2rem;
+  width: 23rem;
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  border: 1px solid white;
+  border-radius: 2px;
+  padding-left: 10px;
+}
+.frame-login .emailBox input[type="email"]:focus {
+  outline: none; 
+  border: 1px solid black; 
+}
+.frame-login .passwordBox input[type="password"]{
+  /* margin:3rem; */
+  position: absolute;
+  left: 12rem;
+  top: 25rem;
+  /* height: 15rem; */
+  height: 2rem;
+  width: 23rem;
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 2px;
+  padding-left: 10px;
+}
+.frame-login .emailBox input[type="password"]:focus {
+  outline: none; 
+  border: 1px solid black; 
+}
+.frame-login .loginBox {
+  /* margin:3rem; */
+  border: none; /* Remove default button border */
+  border-radius: 2rem;
+  position: absolute;
+  left: 12rem;
+  top: 30rem;
+  height: 15rem;
+  height: 2rem;
+  width: 24rem;
+  background-color: white;
+  color: #054470;
+  border: 1px solid rgb(255, 255, 255);
+  font-size: 1.2rem;
+}
+.frame-login .registerLine {
+  position: absolute;
+  left: 17rem;
+  top: 34rem;
+}
+.frame-login .registerLine a{
+  text-decoration: none;
+  color: white;
 }

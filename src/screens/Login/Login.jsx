@@ -2,17 +2,17 @@ import React from "react";
 import logo from "../../img/Logo.png";
 import hexagons from "../../img/login_hexagons@2x.png";
 import cloud from "../../img/login_cloud-storage.png"
-
+import { Link } from "react-router-dom";
 import "./login_style.css";
 
 export const Login = () => {
   return (
     <div className="frame-login">
       <div className="div">
-        <img className="image" alt="Image" src={logo} />
+        <img className="image" alt="Logo" src={logo} />
         <div className="overlap">
           <img className="hexagons" alt="Hexagons" src={hexagons} />
-          <img className="cloud-storage-image" alt="Cloud storage image" src={cloud} />
+          <img className="cloud-storage-image" alt="Cloud storage icon" src={cloud} />
           <div className="ellipse" />
         </div>
         <div className="ellipse-2" />
@@ -20,6 +20,18 @@ export const Login = () => {
 
         {/*form code*/}
 
+        <form>
+        <div className="emailBox">
+          <input type="email" id="email" placeholder="Email" />
+        </div>
+        <div className="passwordBox">
+          <input type="password" id="password" placeholder="Password" />
+        </div>
+
+        <button className="loginBox" type="submit">Login</button>
+      </form>
+      <div className="registerLine">New member? <Link to="/register">Create Account</Link>
+      </div>
       </div>
     </div>
   );
