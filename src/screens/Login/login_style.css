@@ -1,0 +1,93 @@
+.frame-login {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame-login .div {
+  background: linear-gradient(
+    180deg,
+    rgb(147, 211, 255) 0%,
+    rgb(143.44, 208.06, 251.63) 0.01%,
+    rgb(90, 164, 201) 69.58%,
+    rgb(38, 58, 73) 100%
+  );
+  background-color: rgba(255, 255, 255, 1);
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  width: 100vw;
+}
+
+.frame-login .overlap {
+  height: 20rem;
+  left: 57rem;
+  position: absolute;
+  top: 3rem;
+  width: 471px;
+}
+
+.frame-login .hexagons {
+  height: 255px;
+  left: 9px;
+  position: absolute;
+  top: 212px;
+  width: 434px;
+}
+
+.frame-login .cloud-storage-image {
+  height: 364px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 449px;
+}
+
+.frame-login .ellipse {
+  background: linear-gradient(180deg, rgb(5, 68, 112) 3.8%, rgba(89.02, 47.65, 243.31, 0.82) 100%);
+  border-radius: 61px;
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.frame-login .ellipse-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(5, 68, 112) 0%,
+    rgba(89.02, 47.65, 243.31, 0.82) 100%,
+    rgb(119, 163, 195) 100%
+  );
+  border-radius: 14rem;
+  height: 10rem ;
+  left: 55rem;
+  position: absolute;
+  top: 34rem;
+  width: 10rem;
+}
+
+.frame-login .ellipse-3 {
+  background: linear-gradient(180deg, rgb(5, 68, 112) 2.84%, rgb(46.8, 108.77, 153.85) 100%);
+  border-radius: 15rem;
+  height: 13rem;
+  left: 90rem;
+  position: absolute;
+  top: 16rem;
+  width: 13rem;
+}
+
+
+
+.frame-login .image {
+  height: 78px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 118px;
+}
