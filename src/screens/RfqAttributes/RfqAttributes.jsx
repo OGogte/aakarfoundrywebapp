@@ -45,7 +45,7 @@ export  function RfqAttributes() {
       sx={{
         display: 'flex',
         justifyContent: 'center',
-        mt: 5, // Adjust the top margin as needed
+        mt: 5,
         mb: 6, 
       }}
     >

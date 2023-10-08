@@ -9,7 +9,6 @@ export const Login = () => {
   return (
     <div className="frame-login">
       <div className="div">
-        <img className="image" alt="Logo" src={logo} />
         <div className="overlap">
           <img className="hexagons" alt="Hexagons" src={hexagons} />
           <img className="cloud-storage-image" alt="Cloud storage icon" src={cloud} />
