@@ -37,7 +37,7 @@ export const Register = () => {
 
           <button className="loginBox" type="submit">Register</button>
         </form>
-        <div className="registerLine">Already Registered? <Link to="/login">Login</Link>
+        <div className="registerLine">Already Registered? <Link to="/">Login</Link>
         </div>
       </div>
     </div>
