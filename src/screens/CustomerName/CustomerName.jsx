@@ -5,24 +5,14 @@ import Grid from "@mui/material/Grid";
 import Container from "@mui/material/Container";
 import Button from "@mui/material/Button";
 import Stack from '@mui/material/Stack';
-import MenuItem from '@mui/material/MenuItem';
-import Select from '@mui/material/Select';
+import { BoltRounded, Details } from '@mui/icons-material';
+import { MenuItem, Select, Typography } from '@mui/material';
 
-export function CustomerName() {
-  const [category, setCategory] = React.useState('');
 
-  const handleCategoryChange = (event) => {
-    setCategory(event.target.value);
-  };
 
-  const fieldNames = [
-    "Customer Name *",
-    "Customer Ref *",
-    "Contact Person *",
-    "Delivery Address *",
-    "Inquiry Date *",
-    "Category *"
-  ];
+
+export  function CustomerName() {
+
   
   return (
     <Container
@@ -30,50 +20,100 @@ export function CustomerName() {
         display: 'flex',
         justifyContent: 'center',
         mt: 5,
-        mb: 6, 
+        mb:2,
       }}
     >
-      <Box
-        component="form"
-        sx={{
-          '& .MuiTextField-root': { m: 1, width: '100%' },
-        }}
-        noValidate
-        autoComplete="on"
-      >
-        <Grid container spacing={2}>
-          {fieldNames.map((fieldName, index) => (
-            <Grid item xs={12} key={index}>
-              {fieldName === "Category *" ? (
-                <Select
-                  labelId="category-label"
-                  id="category"
-                  value={category}
-                  onChange={handleCategoryChange}
-                  displayEmpty
-                  fullWidth
-                >
-                  <MenuItem value="" disabled>Select Category</MenuItem>
-                  <MenuItem value="RFQ">RFQ</MenuItem>
-                  <MenuItem value="ECN">ECN</MenuItem>
-                </Select>
-              ) : (
-                <TextField
-                  required
-                  id={`outlined-required-${index}`}
-                  label={fieldName}
-                  placeholder="Enter Details"
-                />
-              )}
-            </Grid>
-          ))}
-        </Grid>
-        <Stack direction="row" spacing={5} justifyContent="center" mt={4}>
-          <Button variant="contained">
-            Continue
-          </Button>
-        </Stack>
-      </Box>
-    </Container>
+
+    <Box
+  component="form"
+  sx={{
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+  }}
+  noValidate
+  autoComplete="on"
+>
+<Grid container spacing={4}>
+<Grid item xs={12} sm={12} > {/* Use xs={12} sm={12} for single column */}
+  <Typography variant="subtitle1" sx={{ textAlign: 'left', color: '#054470', fontWeight: '650', fontSize: '1.2rem' }}> Customer Name </Typography>
+  <TextField
+    required
+    id="part-name"
+    label="Enter Details"
+    variant="outlined"
+    fullWidth
+    size="small"
+  />
+</Grid>
+<Grid item xs={12} sm={12}>
+  <Typography variant="subtitle1" sx={{ textAlign: 'left', color: '#054470', fontWeight: '650', fontSize: '1.2rem' }}> Customer Ref </Typography>
+  <TextField
+    required
+    id="part-number-mach"
+    label="Enter Details "
+    variant="outlined"
+    fullWidth
+    size="small"
+  />
+</Grid>
+<Grid item xs={12} sm={12}>
+  <Typography variant="subtitle1" sx={{ textAlign: 'left', color: '#054470', fontWeight: '650', fontSize: '1.2rem' }}> Contact Person </Typography>
+  <TextField
+    required
+    id="part-number-cast"
+    label="Enter Details"
+    variant="outlined"
+    fullWidth
+    size="small"
+  />
+</Grid>
+<Grid item xs={12} sm={12}>
+  <Typography variant="subtitle1" sx={{ textAlign: 'left', color: '#054470', fontWeight: '650', fontSize: '1.2rem' }}> Delivery Address </Typography>
+  <TextField
+    required
+    id="project-details"
+    label="Enter Details"
+    variant="outlined"
+    fullWidth
+    size="small"
+  />
+</Grid>
+<Grid item xs={12} sm={12}>
+  <Typography variant="subtitle1" sx={{ textAlign: 'left', color: '#054470', fontWeight: '650', fontSize: '1.2rem' }}> Inquiry Date </Typography>
+  <TextField
+    required
+    id="enquiry-no"
+    label=" Enter Details"
+    variant="outlined"
+    fullWidth
+    size="small"
+  />
+</Grid>
+<Grid item xs={12} sm={12}>
+  <Typography variant="subtitle1" sx={{ textAlign: 'left', color: '#054470', fontWeight: '650', fontSize: '1.2rem' }}> Category </Typography>
+  <Select
+  required
+  id="category"
+  label="Category"
+  variant="outlined"
+  fullWidth
+  size="small"
+>
+  <MenuItem value="" >Select Category</MenuItem>
+  <MenuItem value="RFQ">RFQ</MenuItem>
+  <MenuItem value="ECN">ECN</MenuItem>
+</Select>
+</Grid>
+</Grid>  <Stack direction="row" spacing={5} justifyContent="center"  mt={4} sx={{ mb: 4 }}>
+        <Button variant="contained"  size="large">
+          Back
+        </Button>
+        <Button variant="contained" size="large" >
+        Continue
+        </Button>
+      </Stack>
+</Box>
+</Container>
   );
 }
