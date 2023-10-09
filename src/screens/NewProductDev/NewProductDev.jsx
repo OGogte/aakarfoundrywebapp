@@ -392,3 +392,5 @@ export const NewProductDev = () => {
     </div>
   );
 };
+
+
